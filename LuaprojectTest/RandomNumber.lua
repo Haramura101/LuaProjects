@@ -1,2 +1,2 @@
-c = math.random( 50, 100 )
+c = math.random( 1, 10000 )
 print(c)
